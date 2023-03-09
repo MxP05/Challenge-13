@@ -34,8 +34,8 @@ Predict whether Alphabet Soup funding applicants will be successful,create a bin
 * Step 3: Optimize the model.
 
 *Sequential summary , and results*
-![Sequential summary](https://github.com/MxP05/Challenge-11/blob/main/image/image1.png?raw=true)
-![Results](https://github.com/MxP05/Challenge-11/blob/main/image/image2.png?raw=true)
+![Sequential summary](https://github.com/MxP05/Challenge-13/blob/main/Resources/im1.png?raw=true)
+![Results](https://github.com/MxP05/Challenge-13/blob/main/Resources/im2.png?raw=true)
 ---
 
 ## Contributors
